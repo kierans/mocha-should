@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kierans/mocha-should/issues"
   },
-  "homepage": "https://github.com/kierans/mocha-should"
+  "homepage": "https://github.com/kierans/mocha-should",
+  "peerDependencies": {
+    "mocha": "*"
+  }
 }
