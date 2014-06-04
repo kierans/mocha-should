@@ -1,0 +1,22 @@
+{
+  "name": "mocha-should",
+  "version": "0.0.1",
+  "description": "Alias should to Mocha it",
+  "main": "mocha-should.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kierans/mocha-should"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "Kieran Simpson <kierans777@gmail.com>",
+  "license": "Apache 2 License",
+  "bugs": {
+    "url": "https://github.com/kierans/mocha-should/issues"
+  },
+  "homepage": "https://github.com/kierans/mocha-should"
+}
