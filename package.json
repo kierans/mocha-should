@@ -1,6 +1,6 @@
 {
   "name": "@kierans777/mocha-should",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Alias should to Mocha it",
   "main": "index.js",
   "scripts": {
