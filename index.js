@@ -1,6 +1,6 @@
 "use strict";
 
-(function(window) {
+(function() {
   function should(message, test) {
     it("should " + message, test);
   }
@@ -14,4 +14,4 @@
   else {
     window.should = should;
   }
-})(window);
+})();
